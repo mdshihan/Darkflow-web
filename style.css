@@ -98,4 +98,25 @@ nav button{
     font-size: 50px;
     font-weight: bold;
 }
+/* user input style */
+.user-input{
+    margin-top: 60px;
+    max-width: 1140px;
+    display: flex;
+    justify-content: space-between;
+}
 
+.input-title{
+    font-size:  50px;
+    font-weight: bold;
+
+}
+.lable{
+    font-weight: bold;
+}
+.input-area{
+    width: 300px;
+    padding: 20px;
+}
+
+/* footer styles */
