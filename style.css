@@ -126,12 +126,41 @@ footer{
 
 }
 
-.Name{
-    display: inline;
-}
 
 .links a{
     text-decoration: none;
     color: #252432;
 }
 
+/* challenge part style */
+.animation:hover{
+    background-color: rgb(16, 156, 175);
+}
+/* card section style */
+.cards{
+    max-width: 1140px;
+}
+.separate-cards{
+    display: flex;
+    justify-content: space-between;
+
+}
+.card{
+    max-width: 350px;
+    height: 243px;
+    box-shadow: 15px 15px 15px 15px #ffffff;
+}
+.card-pera{
+    font-size: 50px ;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-avatar{
+    border-radius: 50%;
+}
+
+.date-input{
+    margin-left: 45px;
+    border-radius: 7px;
+}
