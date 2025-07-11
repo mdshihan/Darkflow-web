@@ -122,11 +122,19 @@ nav button{
 
 /* footer styles */
 footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-align: center;
+    background-color: #ffffff;
+    height: 350px;
+
 
 }
+ .color{
+    color:#aeaeb7 ;
 
-
+}
 .links a{
     text-decoration: none;
     color: #252432;
