@@ -120,3 +120,17 @@ nav button{
 }
 
 /* footer styles */
+footer{
+    text-align: center;
+
+}
+
+.Name{
+    display: inline;
+}
+
+.links a{
+    text-decoration: none;
+    color: #252432;
+}
+
