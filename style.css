@@ -21,7 +21,7 @@ header{
     background-size: cover;
     background-position: center;
     height: 666px;
-    max-width: 1156px;
+    max-width: 1140px;
 }
 
 /* nav styles */
@@ -31,7 +31,9 @@ nav{
     text-align: center;
     height: 150px ;
 }
-
+h3{
+    color:#4E47FF ;
+}
 nav button{
     margin-top: 10px;
 }
@@ -72,4 +74,28 @@ nav button{
     height: 270px;
     border-radius: 25px;
 }
-/* main style */
+/* user section */
+.user-sec{
+   max-width: 1140px;
+     height: 306px;
+     background-color: #ffffff;
+}
+.user-pera{
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.user{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.user-title{
+      color:#919194 ;
+}
+.user-value{
+    font-size: 50px;
+    font-weight: bold;
+}
+
