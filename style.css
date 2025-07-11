@@ -122,6 +122,7 @@ nav button{
 
 /* footer styles */
 footer{
+    margin-top: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -155,7 +156,7 @@ footer{
 }
 .card{
     max-width: 350px;
-    height: 243px;
+    height: 300px;
     box-shadow: 15px 15px 15px 15px #ffffff;
 }
 .card-pera{
@@ -168,7 +169,7 @@ footer{
     border-radius: 50%;
 }
 
-.date-input{
-    margin-left: 45px;
+.review-date{
+    /* margin-left: 45px; */
     border-radius: 7px;
 }
